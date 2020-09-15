@@ -12,6 +12,7 @@
 
 ### $contact
 [![LinBadge](https://img.shields.io/badge/-M.Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehmetalikerimoglu/)](https://www.linkedin.com/in/mehmetalikerimoglu/)
+[![GmBadge](https://img.shields.io/badge/-cyb3rmx0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyb3rmx0@gmail.com)](mailto:cyb3rmx0@gmail.com)
 
 <p align="center"> 
   Visitor count<br>
