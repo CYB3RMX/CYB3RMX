@@ -1,16 +1,13 @@
-### Hi there 👋
+### $whoami
+- Software engineering student.
+- Interested in Cyber Security especially malware analysis.
+- Security utils/tools developer.
+- Linux lover.
 
-<!--
-**CYB3RMX/CYB3RMX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### $ls MyProjects/
+- Qu1cksc0pe - Malware-Analysis
+- d00r - PenTesting
+- GoToolkit - Mix(pentest, useful utils etc.)
+- DummyBee - HoneyPot
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
