@@ -5,10 +5,10 @@
 - Linux lover.
 
 ### $ls MyProjects/
-- <a href="https://github.com/CYB3RMX/Qu1cksc0pe">Qu1cksc0pe</a> - Malware-Analysis
-- <a href="https://github.com/CYB3RMX/d00r">d00r</a> - PenTesting
+- <a href="https://github.com/CYB3RMX/Qu1cksc0pe">Qu1cksc0pe</a> - Malware-Analysis - Anti-Virus
+- <a href="https://github.com/CYB3RMX/d00r">d00r</a> - PenTesting - Directory Bruteforcer
 - <a href="https://github.com/CYB3RMX/GoToolkit">GoToolkit</a> - Mix(pentest, useful utils etc.)
-- <a href="https://github.com/CYB3RMX/DummyBee">DummyBee</a> - HoneyPot
+- <a href="https://github.com/CYB3RMX/DummyBee">DummyBee</a> - Cyber Defense - HoneyPot
 
 ### $contact
 [![LinBadge](https://img.shields.io/badge/-M.Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehmetalikerimoglu/)](https://www.linkedin.com/in/mehmetalikerimoglu/)
