@@ -21,8 +21,8 @@
 
 ### $status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CYB3RMX&&show_icons=true&theme=radical&line_height=27&v=5" alt="CYB3RMX's GitHub Stats" />
-  <a href="https://github.com/CYB3RMX"><img title="CYB3RMX" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYB3RMX&layout=compact"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=CYB3RMX&&show_icons=true&theme=radical&line_height=27&v=5" alt="CYB3RMX's GitHub Stats" /><br>
+  <a href="https://github.com/CYB3RMX"><img title="CYB3RMX" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYB3RMX&layout=compact"></a><br>
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/CYB3RMX/count.svg" />
 </p>
