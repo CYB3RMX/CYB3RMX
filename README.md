@@ -1,5 +1,5 @@
 ### $whoami
-- Interested in malware analysis, malware detection, penetration testing.
+- Interested in malware analysis, malware detection and penetration testing.
 - Security utils/tools developer.
 - Linux system administration.
 
