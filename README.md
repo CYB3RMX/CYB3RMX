@@ -1,7 +1,7 @@
 ### $whoami
 - Interested in malware analysis, malware detection and penetration testing.
 - Security utils/tools developer.
-- Linux system administration.
+- Linux system administrator.
 
 ### $ls MyProjects/
 <p align="center">
