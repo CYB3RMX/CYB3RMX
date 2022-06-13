@@ -1,8 +1,7 @@
 ### $whoami
-- Software engineering student.
-- Interested in Cyber Security especially malware analysis.
+- Interested in malware analysis, malware detection, penetration testing.
 - Security utils/tools developer.
-- Linux lover.
+- Linux system administration.
 
 ### $ls MyProjects/
 <p align="center">
