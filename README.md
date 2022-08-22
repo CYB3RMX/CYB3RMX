@@ -17,7 +17,8 @@
 
 ### $status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CYB3RMX&&show_icons=true&theme=radical&line_height=27&v=5" alt="CYB3RMX's GitHub Stats" /><br>
-  <a href="https://github.com/CYB3RMX"><img title="CYB3RMX" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYB3RMX&layout=compact"></a><br>
-  <a href="https://stardev.io/developers/CYB3RMX"><img alt="Check out CYB3RMX's profile on stardev.io" src="https://stardev.io/developers/CYB3RMX/badge/languages/global.svg" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=CYB3RMX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="CYB3RMX's GitHub Stats" />
+  <a href="https://github.com/CYB3RMX"><img title="CYB3RMX" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYB3RMX&layout=compact"></a>
+  <a href="https://stardev.io/developers/CYB3RMX"><img alt="Check out CYB3RMX's profile on stardev.io" src="https://stardev.io/developers/CYB3RMX/badge/languages/global.svg" /></a><br><br>
+  <img alt="CYB3RMX Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CYB3RMX&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
