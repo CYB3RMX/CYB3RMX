@@ -12,8 +12,9 @@
 </p>
 
 ### $contact
-[![LinBadge](https://img.shields.io/badge/-M.Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehmetalikerimoglu/)](https://www.linkedin.com/in/mehmetalikerimoglu/)
-[![GmBadge](https://img.shields.io/badge/-cyb3rmx0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyb3rmx0@gmail.com)](mailto:cyb3rmx0@gmail.com)
+<a href = "https://www.linkedin.com/in/mehmetalikerimoglu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/sysk1ll3r"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "mailto:cyb3rmx0@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
 ### $status
 <img src="https://github-readme-stats.vercel.app/api?username=CYB3RMX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="CYB3RMX's GitHub Stats" /><a href="https://github.com/CYB3RMX"><img title="CYB3RMX" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYB3RMX&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></a>
