@@ -16,9 +16,8 @@
 [![GmBadge](https://img.shields.io/badge/-cyb3rmx0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyb3rmx0@gmail.com)](mailto:cyb3rmx0@gmail.com)
 
 ### $status
-<img src="https://github-readme-stats.vercel.app/api?username=CYB3RMX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="CYB3RMX's GitHub Stats" />
-<a href="https://github.com/CYB3RMX"><img title="CYB3RMX" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYB3RMX&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></a>
-<br><a href="https://stardev.io/developers/CYB3RMX"><img alt="Check out CYB3RMX's profile on stardev.io" src="https://stardev.io/developers/CYB3RMX/badge/languages/global.svg" /></a><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=CYB3RMX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="CYB3RMX's GitHub Stats" /><a href="https://github.com/CYB3RMX"><img title="CYB3RMX" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYB3RMX&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></a>
 <p align="center">
+  <br><a href="https://stardev.io/developers/CYB3RMX"><img alt="Check out CYB3RMX's profile on stardev.io" src="https://stardev.io/developers/CYB3RMX/badge/languages/global.svg" /></a><br><br>
   <img alt="CYB3RMX Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CYB3RMX&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
