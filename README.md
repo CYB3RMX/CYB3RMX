@@ -15,7 +15,7 @@
 <a href = "https://www.linkedin.com/in/mehmetalikerimoglu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sysk1ll3r"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "mailto:cyb3rmx0@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<a href = "https://bazaar.abuse.ch/user/1319683430674825216/"><img src="https://bazaar.abuse.ch/images/malwarebazaar_logo.png"/></a>
+<a href = "https://bazaar.abuse.ch/user/2459/"><img src="https://bazaar.abuse.ch/images/malwarebazaar_logo.png"/></a>
 
 ### user@github:~$status
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CYB3RMX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="CYB3RMX's GitHub Stats" /><a href="https://github.com/CYB3RMX"><img title="CYB3RMX" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CYB3RMX&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></a>
