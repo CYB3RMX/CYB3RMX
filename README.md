@@ -6,9 +6,10 @@
 ### user@github:~$ls MyProjects/
 <p align="center">
   <a href="https://github.com/CYB3RMX/Qu1cksc0pe"><img title="Qu1cksc0pe" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYB3RMX&repo=Qu1cksc0pe&theme=highcontrast"></a>
-  <a href="https://github.com/CYB3RMX/d00r"><img title="d00r" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYB3RMX&repo=d00r&theme=highcontrast"></a>
   <a href="https://github.com/CYB3RMX/MalwareHashDB"><img title="MalwareHashDB" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYB3RMX&repo=MalwareHashDB&theme=highcontrast"></a>
-  <a href="https://github.com/CYB3RMX/pyXuSB"><img title="pyXuSB" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYB3RMX&repo=pyXuSB&theme=highcontrast"></a>
+  <a href="https://github.com/CYB3RMX/d00r"><img title="d00r" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYB3RMX&repo=d00r&theme=highcontrast"></a>
+  <a href="https://github.com/CYB3RMX/Wh1teM0cha"><img title="Wh1teM0cha" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYB3RMX&repo=Wh1teM0cha&theme=highcontrast"></a>
+  <a href="https://github.com/CYB3RMX/BlackHeart"><img title="BlackHeart" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYB3RMX&repo=BlackHeart&theme=highcontrast"></a>
 </p>
 
 ### user@github:~$contact
