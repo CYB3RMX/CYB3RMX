@@ -14,7 +14,7 @@
 
 ### user@github:~$contact
 <a href = "https://www.linkedin.com/in/mehmetalikerimoglu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://x.com/mal1pulat0r"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://x.com/m4lipulat0r"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "mailto:cyb3rmx0@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href = "https://bazaar.abuse.ch/user/2459/"><img src="https://bazaar.abuse.ch/images/malwarebazaar_logo.png"/></a>
 
