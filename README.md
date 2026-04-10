@@ -29,41 +29,6 @@ user@github:~$ ls MyProjects/
 
 
 ```bash
-user@github:~$ contact
-```
-<h3 align="center">
-  <a href="https://www.linkedin.com/in/mehmetalikerimoglu/" title="LinkedIn">
-    <img
-      alt="LinkedIn"
-      src="https://api.iconify.design/simple-icons:linkedin.svg?color=%2300ff99"
-      width="32"
-      height="32"
-    />
-    &nbsp;<b>LinkedIn</b>
-  </a>
-  &emsp;&emsp;
-  <a href="https://x.com/m4lipulat0r" title="X (Twitter)">
-    <img
-      alt="X (Twitter)"
-      src="https://api.iconify.design/simple-icons:x.svg?color=%2300ff99"
-      width="32"
-      height="32"
-    />
-    &nbsp;<b>X</b>
-  </a>
-  &emsp;&emsp;
-  <a href="https://bazaar.abuse.ch/user/2459/" title="MalwareBazaar">
-    <img
-      alt="MalwareBazaar"
-      src="https://api.iconify.design/tabler:virus.svg?color=%2300ff99"
-      width="32"
-      height="32"
-    />
-    &nbsp;<b>MalwareBazaar</b>
-  </a>
-</h3>
-
-```bash
 user@github:~$ status
 ```
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CYB3RMX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="CYB3RMX's GitHub Stats" /><a href="https://github.com/CYB3RMX"><img title="CYB3RMX" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CYB3RMX&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></a>
