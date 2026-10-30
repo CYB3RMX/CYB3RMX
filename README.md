@@ -12,10 +12,6 @@
 </p>
 
 <p align="center">
-  <img alt="Animated terminal session: help, whoami, projects and status of CYB3RMX" src="terminal/terminal.svg" width="820">
-</p>
-
-<p align="center">
   <sub>Click a command to run it in the interactive terminal</sub>
 </p>
 <p align="center">
