@@ -11,6 +11,10 @@
   />
 </p>
 
+<p align="center">
+  <img alt="Animated terminal session: help, whoami, projects and status of CYB3RMX" src="terminal/terminal.svg" width="820">
+</p>
+
 ```bash
 user@github:~$ _
 ```
@@ -83,12 +87,5 @@ GitHub   https://github.com/CYB3RMX
 </details>
 
 <p align="center">
-  <sub>Want to type your own commands? Open the full interactive terminal</sub>
-</p>
-<p align="center">
-  <a href="https://cyb3rmx-terminal.vercel.app/?cmd=help"><img alt="help" src="https://img.shields.io/badge/%24-help-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF99"></a>
-  <a href="https://cyb3rmx-terminal.vercel.app/?cmd=whoami"><img alt="whoami" src="https://img.shields.io/badge/%24-whoami-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF99"></a>
-  <a href="https://cyb3rmx-terminal.vercel.app/?cmd=projects"><img alt="projects" src="https://img.shields.io/badge/%24-projects-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF99"></a>
-  <a href="https://cyb3rmx-terminal.vercel.app/?cmd=status"><img alt="status" src="https://img.shields.io/badge/%24-status-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF99"></a>
-  <a href="https://cyb3rmx-terminal.vercel.app"><img alt="open%20terminal" src="https://img.shields.io/badge/%24-open%20terminal-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF99"></a>
+  <a href="https://cyb3rmx-terminal.vercel.app"><code>user@github:~$ for more information please check terminal ▮</code></a>
 </p>
