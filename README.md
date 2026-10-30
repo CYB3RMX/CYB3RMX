@@ -17,6 +17,6 @@
 
 <p align="center">
   <a href="https://cyb3rmx-terminal.vercel.app">
-    <img alt="user@github:~$ for more information please check terminal" src="terminal/more-info.svg" width="820">
+    <img alt="user@github:~$ for more information please check terminal" src="terminal/more-info.svg?v=2" width="820">
   </a>
 </p>
