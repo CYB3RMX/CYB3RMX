@@ -16,7 +16,12 @@
 </p>
 
 <p align="center">
-  <a href="https://cyb3rmx-terminal.vercel.app">
-    <img alt="Open interactive terminal" src="https://img.shields.io/badge/%3E__-Open%20interactive%20terminal-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF99">
-  </a>
+  <sub>Click a command to run it in the interactive terminal</sub>
+</p>
+<p align="center">
+  <a href="https://cyb3rmx-terminal.vercel.app/?cmd=help"><img alt="help" src="https://img.shields.io/badge/%24-help-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF99"></a>
+  <a href="https://cyb3rmx-terminal.vercel.app/?cmd=whoami"><img alt="whoami" src="https://img.shields.io/badge/%24-whoami-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF99"></a>
+  <a href="https://cyb3rmx-terminal.vercel.app/?cmd=projects"><img alt="projects" src="https://img.shields.io/badge/%24-projects-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF99"></a>
+  <a href="https://cyb3rmx-terminal.vercel.app/?cmd=status"><img alt="status" src="https://img.shields.io/badge/%24-status-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF99"></a>
+  <a href="https://cyb3rmx-terminal.vercel.app"><img alt="open%20terminal" src="https://img.shields.io/badge/%24-open%20terminal-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF99"></a>
 </p>

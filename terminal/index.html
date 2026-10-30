@@ -255,6 +255,12 @@
   setPrompt();
   print(`<div class="fetch">${ghost()}<pre>\n<span class="acc b">${USER}</span><span class="dim">@github</span>\nWelcome to my terminal.\nType <span class="acc">help</span> to see what you can do,\nor try <span class="acc">status</span>, <span class="acc">projects</span>, <span class="acc">whoami</span>.</pre></div>\n`);
   input.focus();
+
+  // Deep link: ?cmd=projects or ?cmd=whoami,status runs those commands on load (used by the README buttons).
+  (async () => {
+    const wanted = (new URLSearchParams(location.search).get('cmd') || '').split(',').map(c => c.trim().toLowerCase()).filter(Boolean).slice(0, 4);
+    for (const c of wanted) if (cmds[c] && !cmds[c].hidden && c !== 'open') await exec(c);
+  })();
 })();
 </script>
 </body>
