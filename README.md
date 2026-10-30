@@ -14,3 +14,9 @@
 <p align="center">
   <img alt="Animated terminal session: help, whoami, projects and status of CYB3RMX" src="terminal/terminal.svg" width="820">
 </p>
+
+<p align="center">
+  <a href="https://cyb3rmx-terminal.vercel.app">
+    <img alt="Open interactive terminal" src="https://img.shields.io/badge/%3E__-Open%20interactive%20terminal-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF99">
+  </a>
+</p>
