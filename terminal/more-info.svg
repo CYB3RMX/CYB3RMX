@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="64" viewBox="0 0 820 64" role="img" aria-label="user@github:~$ for more information please check terminal - opens the interactive terminal">
+<defs>
+  <filter id="glow" x="-10%" y="-60%" width="120%" height="220%"><feGaussianBlur stdDeviation="4"/></filter>
+  <linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#00FF99" stop-opacity="0"/><stop offset=".5" stop-color="#00FF99" stop-opacity=".22"/><stop offset="1" stop-color="#00FF99" stop-opacity="0"/></linearGradient>
+  <clipPath id="clip"><rect x="2" y="2" width="816" height="60" rx="10"/></clipPath>
+</defs>
+<style>
+  text{font-family:'Fira Code','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Courier New',monospace;font-size:14px}
+  .prompt{fill:#00FF99} .path{fill:#58A6FF} .cmd{fill:#FFFFFF} .dim{fill:#6E7681} .go{fill:#00FF99;font-weight:700}
+  .glow{fill:none;stroke:#00FF99;stroke-width:3;filter:url(#glow);animation:pulse 3s ease-in-out infinite}
+  .edge{fill:#010409;stroke:#00FF99;stroke-opacity:.55;animation:edge 3s ease-in-out infinite}
+  .cover{fill:#010409;transform-box:fill-box;transform-origin:100% 50%;animation:type 8s linear infinite}
+  .curg{animation:follow 8s linear infinite}
+  .cur{fill:#00FF99;animation:blink 1s steps(1) infinite}
+  .sweep{animation:sweep 4s ease-in-out infinite}
+  .arrow{animation:nudge 1.6s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:.15}50%{opacity:.6}}
+  @keyframes edge{0%,100%{stroke-opacity:.45}50%{stroke-opacity:1}}
+  @keyframes type{0%,6%{transform:scaleX(1)}6%{animation-timing-function:steps(42)}32%,93%{transform:scaleX(0)}93.1%,100%{transform:scaleX(1)}}
+  @keyframes follow{0%,6%{transform:translateX(0)}6%{animation-timing-function:steps(42)}32%,93%{transform:translateX(352.8px)}93.1%,100%{transform:translateX(0)}}
+  @keyframes blink{50%{opacity:0}}
+  @keyframes sweep{0%{transform:translateX(-300px)}60%,100%{transform:translateX(900px)}}
+  @keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important} .cover{display:none} .cur{opacity:1} .curg{transform:translateX(352.8px)}}
+</style>
+<rect class="glow" x="3" y="3" width="814" height="58" rx="10"/>
+<rect class="edge" x="2" y="2" width="816" height="60" rx="10"/>
+<g clip-path="url(#clip)"><rect class="sweep" x="0" y="2" width="300" height="60" fill="url(#sweep)"/></g>
+<text class="prompt" x="24" y="39" textLength="100.8" lengthAdjust="spacingAndGlyphs">user@github:</text>
+<text class="path" x="124.8" y="39" textLength="8.4" lengthAdjust="spacingAndGlyphs">~</text>
+<text class="prompt" x="133.2" y="39" textLength="8.4" lengthAdjust="spacingAndGlyphs">$</text>
+<text class="cmd" x="150.0" y="39" textLength="352.8" lengthAdjust="spacingAndGlyphs">for more information please check terminal</text>
+<rect class="cover" x="149.0" y="23" width="356.8" height="22"/>
+<g class="curg"><rect class="cur" x="150.0" y="25" width="9" height="18"/></g>
+<text class="dim" x="528" y="39" textLength="226.8" lengthAdjust="spacingAndGlyphs">cyb3rmx-terminal.vercel.app</text>
+<g class="arrow"><text class="go" x="770.8" y="39" textLength="16.8" lengthAdjust="spacingAndGlyphs">→</text></g>
+</svg>
