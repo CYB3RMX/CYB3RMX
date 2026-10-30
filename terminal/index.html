@@ -14,11 +14,11 @@
   html,body{height:100%;margin:0}
   body{
     background:var(--bg); color:var(--text);
-    font:14px/1.5 'Fira Code','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Courier New',monospace;
-    display:flex; align-items:center; justify-content:center; padding:16px;
+    font:16px/1.55 'Fira Code','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Courier New',monospace;
+    display:flex; align-items:center; justify-content:center; padding:20px;
   }
   .win{
-    width:100%; max-width:920px; height:min(640px,100%); display:flex; flex-direction:column;
+    width:100%; max-width:1280px; height:min(860px,100%); display:flex; flex-direction:column;
     background:var(--panel); border:1px solid var(--line); border-radius:10px; overflow:hidden;
     box-shadow:0 20px 60px rgba(0,0,0,.5);
   }
@@ -44,8 +44,9 @@
   .ghost .e{color:#fff}.ghost .p{color:#010409}
   @keyframes bob{50%{transform:translateY(-4px)}}
   .fetch{display:flex;gap:16px;flex-wrap:wrap;align-items:flex-start}
+  .fetch>pre:not(.ghost){white-space:pre-wrap;min-width:0;max-width:100%}
   .bar-l{color:var(--accent)}
-  @media (max-width:560px){ body{padding:0} .win{border-radius:0;height:100%;border:0} #screen{font-size:13px} }
+  @media (max-width:560px){ body{padding:0} .win{border-radius:0;height:100%;border:0} #screen{font-size:14px} }
   @media (prefers-reduced-motion:reduce){ .ghost{animation:none} }
   [data-theme=amber]{--accent:#FFB000} [data-theme=ice]{--accent:#7DD3FC} [data-theme=mono]{--accent:#E6EDF3}
 </style>
